@@ -1,1 +1,2 @@
-# automated_math
+#automated_math 
+#collection of automated calculations 
