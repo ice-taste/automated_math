@@ -3,8 +3,6 @@
 
 import sys
 
-millimeter = 25.4
-inch = 1.0
 
 def millimeters():
     full = float(input("Enter full body length in inches:  "))
