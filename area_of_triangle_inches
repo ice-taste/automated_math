@@ -1,8 +1,11 @@
 #calculates area of triangle based on inches squared
 
-base = float(input("Base: "))
-height = float(input("Height: "))
+def areat():
+    base = float(input("Base: "))
+    height = float(input("Height: "))
 
-area = (1/2) * base * height
+    area = (1 / 2) * base * height
 
-print(f"Area: {area:.3f}")
+    print(f"Area: {area:.3f}")
+
+areat()
