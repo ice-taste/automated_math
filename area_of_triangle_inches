@@ -1,4 +1,4 @@
-#calculates area of triangle based on inches squared
+#calculates area of triangle squared
 
 def areat():
     base = float(input("Base: "))
