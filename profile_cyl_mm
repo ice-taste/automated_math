@@ -17,7 +17,7 @@ def millimeters():
     f"Full length: {fullm:.2f} mm\n"
     f"Half length: {fullh:.2f} mm\n"
     f"1/3 length: {one:.2f} mm\n"
-    f"2/3 length: {twom:.2f} mm\n"
+    f"2/3 length: {two:.2f} mm\n"
     f"3/4 length: {three:.2f} mm")
 
 millimeters()
