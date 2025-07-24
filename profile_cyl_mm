@@ -9,15 +9,15 @@ def millimeters():
     half = full / 2.0
     fullm = full * 25.4
     fullh = half * 25.4
-    twothirm = fullm * (2/3)
-    onethirm = fullm * (1/3)
-    threeqm = fullm * (3/4)
+    one = fullm * (1/3)
+    two = fullm * (2/3)
+    three= fullm * (3/4)
 
     print("Cylinder length in millimeters:\n"
     f"Full length: {fullm:.2f} mm\n"
     f"Half length: {fullh:.2f} mm\n"
-    f"1/3 length: {onethirm:.2f} mm\n"
-    f"2/3 length: {twothirm:.2f} mm\n"
-    f"3/4 length: {threeqm:.2f} mm")
+    f"1/3 length: {one:.2f} mm\n"
+    f"2/3 length: {twom:.2f} mm\n"
+    f"3/4 length: {three:.2f} mm")
 
 millimeters()
