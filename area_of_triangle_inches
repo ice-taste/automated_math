@@ -3,9 +3,7 @@
 def areat():
     base = float(input("Base: "))
     height = float(input("Height: "))
-
     area = (1 / 2) * base * height
-
     print(f"Area: {area:.3f}")
 
 areat()
